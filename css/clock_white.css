@@ -1,43 +1,4 @@
-/*-----------------------------------------------------------------
-[Legal Notice]
 
-Copyright (c) HighHay/Mivfx
-Before using this template, you should agree with themeforest licenses terms.
-http://themeforest.net/licenses
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-[Table of contents]
-
-0. Initialization
-    0.1. Reset HTML Tags
-    0.2. Text Position / .text-*
-
-1. Body
-	1.1. Body background / body
-	1.2. Background Mask / .main-bg-mask
-
-	2.2. 
-        2.2.2. Clock / .clock-layout
-
-8. Screen Responsiveness
-    8.1. Handset Screen Less than 768 px width
-    8.2. Handset Screen Less 480 px width
-    8.3. Handset Screen Less than 360 px width    
-
--------------------------------------------------------------------*/
-
-/*-----------------------------------------------------------------
-[Color codes]
-Default Colors:
-    White : #F8F9FA, #FFF
-
-Clock :
-    White : #F8F9FA, #FFF
--------------------------------------------------------------------*/
-
-
-/* 2.2.2. Clock */
 .page .content .clock:before {
 	display: none;
 }
