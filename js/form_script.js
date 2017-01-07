@@ -1,10 +1,5 @@
 "use strict";
-/*
- *Your Ajax Server Here if it was not defined in html site-config element, 
- * use internal url (such as './ajaxserver/server.php') or 
- * external URL such as:  url: 'http://www.example.com/avenir/ajaxserver/server.php'
- * depending to your requirements
- */
+
 var email_server_url = './ajaxserver/serverfile.php';
 var message_server_url = './ajaxserver/serverfile.php';
 //Check if action attribute (which indicates server) of form tag is set, then choose it (low 

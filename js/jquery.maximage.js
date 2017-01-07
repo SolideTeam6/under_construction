@@ -1,65 +1,6 @@
-/*	--------------------------------------------------------------------
-	MaxImage 2.0 (Fullscreen Slideshow for use with jQuery Cycle Plugin)
-	--------------------------------------------------------------------
-	
-	Examples and documentation at: http://www.aaronvanderzwan.com/maximage/2.0/
-	Copyright (c) 2007-2012 Aaron Vanderzwan
-	Dual licensed under the MIT and GPL licenses.
-	
-	NOTES:
-	This plugin is intended to simplify the creation of fullscreen 
-	background slideshows.  It is intended to be used alongside the 
-	jQuery Cycle plugin: 
-	http://jquery.malsup.com/cycle/
-	
-	If you simply need a fullscreen background image, please
-	refer to the following document for ways to do this that
-	are much more simple:
-	http://css-tricks.com/perfect-full-page-background-image/
-	
-	If you have any questions please contact Aaron Vanderzwan
-	at http://www.aaronvanderzwan.com/blog/
-	Documentation at:
-	http://blog.aaronvanderzwan.com/2012/07/maximage-2-0/
-	
-	HISTORY:
-	MaxImage 2.0 is a project first built as jQuery MaxImage Plugin 
-	(http://www.aaronvanderzwan.com/maximage/). Once CSS3 came along, 
-	the background-size:cover solved the problem MaxImage
-	was intended to solve.  However, fully customizable
-	fullscreen slideshows is still fairly complex and I have not
-	found any helpers for integrating with the jQuery Cycle Plugin.
-	MaxCycle is intended to solve this problem.
-	
-	TABLE OF CONTENTS:
-	@Modern
-		@setup
-		@resize
-		@preload
-	@Old
-		@setup
-		@preload
-		@onceloaded
-		@maximage
-		@windowresize
-		@doneresizing
-	@Cycle
-		@setup
-	@Adjust
-		@center
-		@fill
-		@maxcover
-		@maxcontain
-	@Utils
-		@browser_tests
-		@construct_slide_object
-		@sizes
-	@modern_browser
-	@debug
-		
-*/
+
 /*!	
- * Maximage Version: 2.0.8 (16-Jan-2012) - http://www.aaronvanderzwan.com/maximage/2.0/
+ * 
  */
 
 
